@@ -2,9 +2,6 @@
 
 **CSC 361 — Artificial Intelligence**
 
-student name:سلطان الدريويش
-
-student number:445101292
 
 ## Description
 
