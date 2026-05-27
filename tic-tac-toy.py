@@ -84,7 +84,7 @@ class TicTacToeUI(ctk.CTk):
                 states.append(new_state)
         return states        
                 
-        
+    # main algorthm    
     def minMaxSearch(self):
         branch = self.generateStates(self.board_array , "X")
         maxu = -101
